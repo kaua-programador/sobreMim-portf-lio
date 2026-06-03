@@ -12,8 +12,10 @@ body{
 }
 
 footer{
-    background-color: blueviolet;
-    margin-top: 490px;
+    background-color: #131f3b;
+    margin-top: 470px;
+    color:white;
+    text-align: center;
 }
 
 .container{
@@ -42,4 +44,8 @@ footer{
 
 .perfil:hover .tooltip {
     opacity: 1;
+}
+
+ul{
+    color: red;
 }
